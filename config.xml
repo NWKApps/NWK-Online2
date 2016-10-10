@@ -7,7 +7,7 @@
     <author email="dev@cordova.apache.org" href="http://cordova.io">
         Apache Cordova Team
     </author>
-    <content src="index.html" />
+    <content src="http://www.nwk.co.za/Online/" />
     <icon src="icon.png" />
     <access origin="http://www.nwk.co.za" subdomains="true" />
     <preference name="permissions" value="none"/>
