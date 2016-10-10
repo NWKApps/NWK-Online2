@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="za.nwk.Online" versionCode = "21" version="1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="za.nwk.Online" versionCode = "22" version="2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>NWK Online</name>
     <description>
         NWK Aanlyn
@@ -7,7 +7,7 @@
     <author email="dev@cordova.apache.org" href="http://cordova.io">
         Apache Cordova Team
     </author>
-    <content src="index.html" />
+    <content src="http://www.nwk.co.za/online" />
     <icon src="icon.png" />
     <access origin="http://www.nwk.co.za" subdomains="true" />
 </widget>
