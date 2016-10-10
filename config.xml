@@ -10,5 +10,6 @@
     <content src="http://www.nwk.co.za/online" />
     <icon src="icon.png" />
     <access origin="http://www.nwk.co.za" subdomains="true" />
+    <preference name="permissions" value="none"/>
     <feature name="http://api.phonegap.com/1.0/network"/>
 </widget>
